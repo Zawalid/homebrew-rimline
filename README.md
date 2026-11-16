@@ -3,7 +3,7 @@
 Turns the edges and corners of your Mac trackpad into controls: slide an edge for volume or brightness, tap or hold a
 corner to run an action, hold a key and the whole trackpad becomes something else.
 
-This repository holds the downloads, the update feed and the Homebrew cask. The app itself is closed source.
+This repository holds the downloads, the update feed and the Homebrew cask. The app itself is closed source. Part of [Toolbox](https://mac.zawalid.com), the Mac apps of Walid Zakan.
 
 ## Install
 
