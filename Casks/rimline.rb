@@ -1,8 +1,8 @@
 # Homebrew cask for Rimline. Lives in the tap repository Zawalid/homebrew-rimline as Casks/rimline.rb.
 # `scripts/cask.sh <version>` prints this file with the version and the DMG's SHA-256 filled in.
 cask "rimline" do
-  version "1.1.1"
-  sha256 "869a90a278a6482cf81e2f29acef42020641a7f46b958eab6b290afabd1fffd6"
+  version "1.2.0"
+  sha256 "212975cfc499685a4b43f15396afe820a86123e77faa03a44738ee3523184e7f"
 
   url "https://github.com/Zawalid/homebrew-rimline/releases/download/v#{version}/Rimline-#{version}.dmg"
   name "Rimline"
